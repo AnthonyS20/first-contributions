@@ -34,6 +34,7 @@
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Roie Scharf](https://github.com/scharf-roie)
 - [Razibul Hasan](https://github.com/RazibulHasanAshik)
+- [Anthony Stross](https://github.com/AnthonyS20)
 - [Khoaiz](https://github.com/Khoaizahmmed)
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
 - [Robert Reyes](https://github.com/robrey0)
